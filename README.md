@@ -8,4 +8,12 @@
 *...
 
 ### CONNECT ME VIA : baokhanh21qb@gmail.com
-###### &#169; 
+###### &#169; 2025 baokhanh
+
+### Screen-shots
+
+### TDD, DDT test script with Junit 
+![TDD, DDT with JUnit](https://github.com/baokhanh592004/math/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+
+### MAVEN 
+![Maven builder](https://github.com/baokhanh592004/math/blob/main/screenshots/Maven%20Builder.png)
