@@ -18,5 +18,6 @@
 
 ### MAVEN 
 ![Maven builder](https://github.com/baokhanh592004/math/blob/main/screenshots/Maven%20Builder.png)
+[![Math Utility Project (CI included) | © 2025 by bảo khánh](https://github.com/baokhanh592004/math/actions/workflows/ci-runner.yml/badge.svg)](https://github.com/baokhanh592004/math/actions/workflows/ci-runner.yml)
 =======
 >>>>>>> 8813768517c6a5e99eb86ecc74f9f6e1520352f2
